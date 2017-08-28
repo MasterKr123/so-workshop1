@@ -83,7 +83,7 @@ VARIABLEENTORNO=SYSADMIT
 [root@localhost ~]# echo $VARIABLEENTORNO  
 SYSADMIT
 
-![Evindencia][Captura.JPG]
+![Evidencia](Captura.JPG)
 
 
 **¿Cómo configuramos una variable de entorno permanente?**  
